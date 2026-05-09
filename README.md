@@ -2,7 +2,9 @@
 
 I'm **Akshay**, a BCA Graduate, Video Editor, and Tech Enthusiast passionate about technology, creativity, and digital productivity. I work with Microsoft Office tools, DaVinci Resolve, and basic development tools while continuously learning new tech skills.
 
-<a href="(https://www.linkedin.com/in/akshay-a-507a6930a)"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/akshay-a-507a6930a">
+  <img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
 <details>
   <summary>More about me</summary>
