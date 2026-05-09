@@ -63,10 +63,6 @@ I'm **Akshay**, a BCA Graduate, Video Editor, and Tech Enthusiast passionate abo
 
 | **Project** | **Description** |
 |---|---|
-| **Excel Meal Planner** | Created a smart meal planning spreadsheet using formulas and formatting |
-| **PowerPoint Designs** | Designed presentation slides with animations and media integration |
-| **Video Editing Showcase** | Edited cinematic videos and performed color grading in DaVinci Resolve |
-| **IoT Notes & Concepts** | Organized IoT and networking study materials and notes |
 
 ---
 
