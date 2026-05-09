@@ -30,11 +30,6 @@ I'm **Akshay**, a BCA Graduate, Video Editor, and Tech Enthusiast passionate abo
 <div style="border: 2px solid #22F700; border-radius: 10px; padding: 20px; margin-bottom: 20px;">
   <div align="left" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
 
-<img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&color=000000" alt="Excel" />
-
-<img src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&color=000000" alt="Word" />
-
-<img src="https://img.shields.io/badge/PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&color=000000" alt="PowerPoint" />
 
 <img src="https://img.shields.io/badge/DaVinci_Resolve-233A51?style=for-the-badge&logo=davinciresolve&color=000000" alt="DaVinci Resolve" />
 
@@ -46,18 +41,9 @@ I'm **Akshay**, a BCA Graduate, Video Editor, and Tech Enthusiast passionate abo
 
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&color=000000" alt="CSS3" />
 
-<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&color=000000" alt="Canva" />
-
-<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&color=000000" alt="Windows" />
-
-<img src="https://img.shields.io/badge/IoT-00A86B?style=for-the-badge&color=000000" alt="IoT" />
-
-<img src="https://img.shields.io/badge/Video_Editing-FF0000?style=for-the-badge&color=000000" alt="Video Editing" />
 
   </div>
 </div>
-
-<h2 id="Stats" align=''> GitHub Stats </h2>
 
 ![](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight)
 
