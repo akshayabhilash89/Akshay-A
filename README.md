@@ -57,25 +57,6 @@ I'm **Akshay**, a BCA Graduate, Video Editor, and Tech Enthusiast passionate abo
   </div>
 </div>
 
----
-
-<h2 id="Projects" align=''> Projects </h2>
-
-| **Project** | **Description** |
-|---|---|
-
----
-
-<h2 id="Currently_Learning" align=''> Currently Learning </h2>
-
-- Git & GitHub
-- Advanced Excel
-- UI/UX Design
-- Freelancing Skills
-- Content Creation
-
----
-
 <h2 id="Stats" align=''> GitHub Stats </h2>
 
 ![](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight)
@@ -86,8 +67,8 @@ I'm **Akshay**, a BCA Graduate, Video Editor, and Tech Enthusiast passionate abo
 
 <h2 id="Connect" align=''> Connect With Me </h2>
 
-- LinkedIn: https://linkedin.com/in/your-linkedin
-- Email: your-email@example.com
+- LinkedIn: https://www.linkedin.com/in/akshay-a-507a6930a
+- Email: akshayabhilash89@gmail.com
 
 ---
 
